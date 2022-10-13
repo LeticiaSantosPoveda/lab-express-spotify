@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/spotify-background.jpeg");
+    display: flex;
+    justify-content: center;
+    background-size: 100vw 100vh;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+}
+
+form input {
+    width: 300px;
+    height: 30px;
+}
